@@ -5,7 +5,7 @@ This repository is for beginners who want to learn how to make a **Pull Request*
 
 
 # What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 5 pull requests in the month of October to any open source projects on Github.
+Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 
 ## Steps to follow :scroll:
 
@@ -14,8 +14,7 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 # How to Contribute :question:
 
-:one: Fork the repository! by clicking [this](https://github.com/harshitsan/hacktoberfest-2019/new/master?readme=1#fork-destination-box).
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/harshitsan/hacktoberfest-2019)
+:one: Fork the repository!
 
 :two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
 
@@ -46,11 +45,9 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 Anything about yourself!
 
+___
 
-### Ready, Steady, Go... :turtle: :rabbit2:
-
-Once you have completed these steps, you are ready to start contributing 
-
+## Ready, Steady, Go... :turtle: :rabbit2:
 ### Give this Project a Star :star:
 
 If you liked working on this project, please share this project as much 
