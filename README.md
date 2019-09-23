@@ -1,6 +1,6 @@
 # hacktoberfest-2019 :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
- [poster](https://github.com/harshitsan/hacktoberfest-2019/hacktoberfest2019.png)
+ [poster](https://github.com/harshitsan/hacktoberfest-2019/blob/master/hacktoberfest2019.png)
 
 
 # What is Hacktoberfest?
