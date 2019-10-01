@@ -6,5 +6,5 @@
 **place :house:** : islamabad
 ### About me :boy: :
 ---
-I am danish mehmood, A final year software engineering student.
+I am danish mehmood, 3 A final year software engineering student.
 My major areas of interest are Web Development, Open Source.
