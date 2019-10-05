@@ -7,4 +7,4 @@
 ### About me :boy: :
 ---
 I am Harshit Bhalla, A final year computer science student.
-My major areas of interest are Web Development, Open Source.
+My major areas of interest are Web Development, Open Source, Sales, Marketing.
