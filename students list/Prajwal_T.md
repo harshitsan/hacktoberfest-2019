@@ -1,7 +1,7 @@
 ## Introduction :sunglasses:
 **Name :name_badge:**:    Prajwal T
 <br>
-**GitHub id :id:**: [I'm Prajwal ](https://github.com/Prajwalmithun)
+**GitHub id :id:**: [I'm Prajwalmithun ](https://github.com/Prajwalmithun)
 <br>
 **place :house:** : Mysore,Karnataka
 ### About me :boy: :
