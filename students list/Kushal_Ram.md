@@ -6,5 +6,5 @@
 **place :house:** : Tumkur
 ### About me :boy: :
 ---
-I am Ayan Raj, A 2nd year computer science student.
+I am Kushal, A 2nd year computer science student.
 My major areas of interest are Web Development,coding and music.
