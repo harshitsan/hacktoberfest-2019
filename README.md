@@ -12,6 +12,8 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 ### Register for Hacktoberfest
 You can register from [here](https://hacktoberfest.digitalocean.com).
 
+Follow the in
+
 # How to Contribute :question:
 
 :one: Fork the repository!
@@ -56,6 +58,6 @@ as you can and star this project to help as many people in opensource as you can
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
 
 ### Namw[sarang rk]:https://github.com/MR-Opz
--Bio|:CS Syudnt
-PLACe :INdia
+-Bio|:CS Student
+Place : INDIA
 
