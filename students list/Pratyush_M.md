@@ -11,5 +11,5 @@ ML and Data Science Enthusiast!
 - Age    : 20 Years
 
 ## Social Media Handle:
-2. GitHub [www.github.com/pratyushmp/]
-3. Instagram (pratyush_mp)
+1. GitHub [www.github.com/pratyushmp/]
+2. Instagram (pratyush_mp)
