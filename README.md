@@ -1,6 +1,6 @@
 # hacktoberfest-2019 :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
- 
+
  ![poster](https://github.com/harshitsan/hacktoberfest-2019/blob/master/hacktoberfest2019.png)
 
 
@@ -50,7 +50,8 @@ ___
 ## Ready, Steady, Go... :turtle: :rabbit2:
 ### Give this Project a Star :star:
 
-If you liked working on this project, please share this project as much 
+If you liked working on this project, please share this project as much
 as you can and star this project to help as many people in opensource as you can.
+TNX
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
