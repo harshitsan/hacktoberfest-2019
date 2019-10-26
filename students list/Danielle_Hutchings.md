@@ -1,10 +1,10 @@
 ## Introduction :sunglasses:
-**Name :name_badge:**:     Danielle Hutchings
+**Name :name_badge:**:     Nilanthi Dev
 <br>
-**GitHub id :id:**: [My GitHub Account](https://github.com/dhutchings3)
+**GitHub id :id:**: [I'm Nilanthi Gunasena](https://github.com/DevNil531)
 <br>
-**place :house:** : Fort Worth, Texas
+**place :house:** : Polonnaruwa,Srilanka
 ### About me :girl: :
 ---
-I'm Danielle, a digital marketer learning to code.
-My major areas of interest are Web Development and Design.
+I'm Nilanthi, a digital marketer learning to code.
+My major areas of interest are Web Development and ML.
