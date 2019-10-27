@@ -7,9 +7,9 @@ int place(int pos) {
 	for (i=1;i<pos;i++) {
 		if((a[i]==a[pos])||((abs(a[i]-a[pos])==abs(i-pos))))
 		   return 0;
-	}
+	}// for loop ends here
 	return 1;
-}
+}// place() ends
 void print_sol(int n) {
 	int i,j;
 	count++;
@@ -22,8 +22,8 @@ void print_sol(int n) {
 			    printf("*\t");
 		}
 		printf("\n");
-	}
-}
+	}//for loop ends here
+} //print_sol ends here
 void queen(int n) {
 	int k=1;
 	a[k]=0;
@@ -41,8 +41,8 @@ void queen(int n) {
                     }
 		else
 		   k--;
-	}
-}
+	}//while loop ends
+}// queen function ends
 void main() {
 	int i,n;
 
@@ -51,4 +51,4 @@ void main() {
 	queen(n);
 	printf("\nTotal solutions=%d",count);
 
-}
+}//main function ends here
