@@ -37,7 +37,8 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 **Your name**: Harshit Bhalla
 
-**Your GitHub id**: [@harshitsan](https://github.com/harshitsan)
+**Your GitHub id**: [@harshitsan]
+(https://github.com/harshitsan)
 
 **Your location**: Ambala City
 
