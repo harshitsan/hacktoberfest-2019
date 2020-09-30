@@ -35,11 +35,11 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### Introduction :sunglasses:
 
-**Your name**: Harshit Bhalla
+**Your name**: Tulika Panjal
 
-**Your GitHub id**: [@harshitsan](https://github.com/harshitsan)
+**Your GitHub id**: [@tulika7](https://github.com/tulika7)
 
-**Your location**: Ambala City
+**Your location**: Kolkata
 
 ### About You :boy:
 
