@@ -1,18 +1,18 @@
 ## Welcome to my profile:
 
-## Ankitkumar Singh
+## Tanay Raj Singh
 a high functioning geek, exploring various domains of computer science!
-![hey, it's Ankit!]
+![hey, it's Tanay!]
 
 #### Get-in-Touch:
-- mail: [abc@ankitkumar.xyz](mailto:abc@ankitkumar.xyz)
+- mail: [abc@tanayraj.xyz](mailto:abc@tanayraj.xyz)
 
 #### Personal Details:
 - Sex    : Male
-- Weight : 60 Kgs
-- Height : 5.5 inches
-- DoB    : 30th december, 2000
-- Age    : 18 Years
+- Weight : 90 Kgs
+- Height : 187 inches
+- DoB    : 30th january, 2000
+- Age    : 26 Years
 
 #### Geeky Interests:
 1. Competetive Programming
@@ -20,7 +20,7 @@ a high functioning geek, exploring various domains of computer science!
 3. Mobile Stuff (React-Native)
 
 ## Social Media Handle:
-1. Facebook (Ankitkumar Singh)
+1. Facebook (Tanay Raj)
 2. GitHub (3009aksingh)
 3. Instagram (aksingh_2000)
 
