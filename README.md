@@ -14,21 +14,21 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 # How to Contribute :question:
 
-:one: Fork the repository!
+:One: Fork the repository!
 
-:two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
+:Two: Add your profile as **`students list/firstName_lastName_githubId.md`** and include your details!
 
-:three: Commit the changes!
+:Three: Commit the changes!
 
-:four: Push the changes!
+:Four: Push the changes!
 
-:five: Make a pull request.!
+:Five: Make a pull request.!
 
-:six: Star this repository.!
+:Six: Star this repository.!
 
-:seven: Wait for your PR to be merged.!
+:Seven: Wait for your PR to be merged.!
 
-:eight: Celebrate - you've done your first pull request!!!!!
+:Eight: Celebrate - you've done your first pull request!!!!!
 
 
 ## Template for contributions :clipboard:
