@@ -24,19 +24,16 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 :five: Make a pull request.!
 
-:six: Star this repository.!
+:six: Wait for your PR to be merged.!
 
-:seven: Wait for your PR to be merged.!
-
-:eight: Celebrate - you've done your first pull request!!!!!
+:seven: Celebrate - you've done your first pull request!!!!!
 
 
 ## Template for contributions :clipboard:
 
 ### Introduction :sunglasses:
 
-**Your name**: Harshit Bhalla
-
+**Your name**: Surya
 **Your GitHub id**: [@harshitsan](https://github.com/harshitsan)
 
 **Your location**: Ambala City
