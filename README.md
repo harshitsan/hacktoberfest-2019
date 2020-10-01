@@ -1,5 +1,5 @@
 # hacktoberfest-2019 :rocket:
-This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
+This repository is for the beginners who want to learn how to make a **Pull Request**. Enjoy :)
  
  ![poster](https://github.com/harshitsan/hacktoberfest-2019/blob/master/hacktoberfest2019.png)
 
@@ -24,19 +24,19 @@ You can register from [here](https://hacktoberfest.digitalocean.com) and get ach
 
 :five: Make a pull request.!
 
-:six: Star this repository.!
+:six: Wait for your PR to be merged.!
 
 :seven: Wait for your PR to be merged.!
 
 :eight: Celebrate  you've done your first pull request!!!!!
 
 
+
 ## Template for contributions :clipboard:
 
 ### Introduction :sunglasses:
 
-**Your name**: Harshit Bhalla
-
+**Your name**: Surya
 **Your GitHub id**: [@harshitsan](https://github.com/harshitsan)
 
 **Your location**: Ambala City
