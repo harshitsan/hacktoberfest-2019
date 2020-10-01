@@ -34,7 +34,7 @@
 <tr>
 <td align="center" width="20%">
 <span><b><center>Terraform</center></b></span> 
-<img height=65px src="https://www.cleanpng.com/png-terraform-hashicorp-microsoft-azure-infrastructure-2641388/download-png.html"> 
+<img height=65px src="https://www.veritis.com/wp-content/uploads/2015/06/Terraform-main-image.jpg"> 
 </td>
 
 <td align="center" width="20%">
