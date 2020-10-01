@@ -26,7 +26,7 @@ You can register from [here](https://hacktoberfest.digitalocean.com) and get ach
 
 :six: Wait for your PR to be merged.!
 
-:seven: Wait for your PR to be merged.!
+:seven: Wait for your PR to be merged.!  accept my pull request
 
 :eight: Celebrate  you've done your first pull request!!!!!
 
