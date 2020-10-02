@@ -34,13 +34,17 @@ void search()
         index=(hkey+i)%TABLE_SIZE;
         if(h[index]==key)
         {
-            printf("Search Found!");
+            printf("Search Found is there!");
             break;
+        }
+        if(i==TABLE_SIZE)
+        {
+             printf("\nSearch Not Found!");
         }
 
     }
-if(i==TABLE_SIZE)
-    printf("\nSearch Not Found!");
+
+   
 }
 
 
