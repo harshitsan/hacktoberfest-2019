@@ -6,5 +6,5 @@
 **place :house:** : Durgapur, India
 ---
 **About me:**
-Hey, I am Amit . I am a BackEnd developer.
+Hey, I am Amit . I am a BackEnd Developer.
 
