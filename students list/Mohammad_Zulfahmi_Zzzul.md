@@ -3,6 +3,6 @@
 
 **My location**: Indonesia
 
-### About You :boy:
+### About Me :boy:
 
 I’m currently learning Laravel & Vue ~✨
