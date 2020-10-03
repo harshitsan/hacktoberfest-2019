@@ -1,7 +1,7 @@
-**Your name**: Mohammad Zulfahmi
-**Your GitHub id**: [@Zzzul](https://github.com/Zzzul)
+**My name**: Mohammad Zulfahmi
+**My GitHub id**: [@Zzzul](https://github.com/Zzzul)
 
-**Your location**: Indonesia
+**My location**: Indonesia
 
 ### About You :boy:
 
