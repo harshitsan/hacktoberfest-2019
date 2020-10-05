@@ -44,8 +44,8 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### About You :boy:
 
-Anything about yourself!
-
+Anything about yourself! 
+Any hobbies or intrest
 ___
 
 ## Ready, Steady, Go... :turtle: :rabbit2:
