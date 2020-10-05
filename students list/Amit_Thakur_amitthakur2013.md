@@ -1,10 +1,10 @@
 ## Introduction :sunglasses:
-**Name :name_badge:**:    Amit Thakur
+**Name :name_badge:**:    Aryan Singh
 <br>
-**GitHub id :id:**: [amitthakur2013 ](https://github.com/amitthakur2013)
+**GitHub id :id:**: [aaryansiingh ](https://github.com/aaryansiingh)
 <br>
-**place :house:** : Durgapur, India
+**place :house:** : Bareilly, India
 ---
 **About me:**
-Hey, I am Amit . I am a BackEnd developer.
+Hey, I am Aryan. I am an Android developer.
 
