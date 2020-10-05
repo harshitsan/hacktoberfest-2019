@@ -10,8 +10,8 @@ Hacktoberfest is a program by Digital Ocean and Github, where you can easily win
 
 ## Steps to follow :scroll:
 
-### Register for Hacktoberfest:
-You can register from [here](https://hacktoberfest.digitalocean.com) and get achance to win goodies from hactober.
+### Register for Hacktoberfest 2020
+You can register from [here](https://hacktoberfest.digitalocean.com).
 
 # How to Contribute :question:
 
