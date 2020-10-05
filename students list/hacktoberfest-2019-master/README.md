@@ -1,17 +1,17 @@
 
-## HACKTOBERFEST-2020 :rocket:
+## hacktoberfest-2020 :rocket:
 This repository is for beginners who want to learn how to make a **Pull Request**. Enjoy :)
-Please accept my pr. I had never got a tshirt in any event. Pls show some sympathy on me🙏🙏
+ 
  ![poster](https://github.com/harshitsan/hacktoberfest-2019/blob/master/hacktoberfest2019.png)
 
 
 # What is Hacktoberfest?
-Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github. (Your request should not be invalid or spam)
+Hacktoberfest is a program by Digital Ocean and Github, where you can easily win a T-Shirt just by making 4 pull requests in the month of October to any open source projects on Github.
 
 ## Steps to follow :scroll:
 
-### Register for Hacktoberfest 2020
-You can register from [here](https://hacktoberfest.digitalocean.com).
+### Register for Hacktoberfest
+You can register from [here](https://hacktoberfest.digitalocean.com) and get achance to win goodies from hactober.
 
 # How to Contribute :question:
 
@@ -44,8 +44,8 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### About You :boy:
 
-Anything about yourself! 
-Any hobbies or intrest
+Anything about yourself!
+
 ___
 
 ## Ready, Steady, Go... :turtle: :rabbit2:

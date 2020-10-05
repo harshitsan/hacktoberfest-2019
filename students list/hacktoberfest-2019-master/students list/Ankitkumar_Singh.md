@@ -1,6 +1,6 @@
 ## Welcome to my profile:
 
-## Ankitkumar Singh
+## Tanay Raj Singh
 a high functioning geek, exploring various domains of computer science!
 ![hey, it's Tanay!]
 
